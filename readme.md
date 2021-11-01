@@ -18,3 +18,6 @@ grun.bat CPP14Lexer tokens -tokens 3-b9.cpp
 
 grun.bat CPP14 translationUnit -tree 3-b9.cpp > out.txt
 
+![](./pic1.png)
+
+![](./pic2.png)
